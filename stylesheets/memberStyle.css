@@ -2,7 +2,6 @@
 	width: 150px;
 	text-align:left;
 	font-weight: normal;
-	font-size: 13px;
 	padding: 5px;
 	margin: 0px;
 	background: #EDEDED;
@@ -12,57 +11,9 @@
 	padding: 1px 0px 0px 10px;
 }
 
-.memberBody {
-	float: right;
-	width: 740px;
-  margin: 10px 20px 0px 0px;
-}
-
-.memberLinks {
-  float: left;
-  width: 110px;
-	padding: 10px 10px 10px 10px;
-	overflow: auto;
-	font-size: 13px;
-}
-
-.memberLinks ul {
-  list-style: none;
-  margin: 0px;
-  padding: 0px 0px 0px 0px;
-  border: none;
-}
-
-.memberLinks li {
-  font-size: 12px;
-  list-style: none;
-  margin: 0px 0px 5px 0px;
-  padding: 0px;
-  border: 0px;
-}
-
-.memberLinks a, .memberLinks p {
-	font-size: 12px;
-}
-
-.memberLinks .memberLinkHeadingTopDiv {
-	font-weight: bold;
-	border-bottom: 1px solid green;
-	margin: 5px 0px 5px 0px;
-	padding: 0px 0px 2px 0px;
-}
-
-.memberLinks .memberLinkHeading {
-	font-weight: bold;
-	border-bottom: 1px solid green;
-	margin: 20px 0px 5px 0px;
-	padding: 0px 0px 2px 0px;
-}
-
 .editDetails th {
 	text-align: left;
 	font-weight: normal;
-	font-size: 13px;
 	width: 150px;
 }
 

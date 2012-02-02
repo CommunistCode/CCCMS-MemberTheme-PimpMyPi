@@ -2,9 +2,6 @@
 	
   <head>
  
-    <!-- Google Web Font JS -->
-    <script src="<?php echo($directoryPath); ?>/themes/berry/scripts/googleWebFont.js"></script> 
-
      <!-- Javascript CSS Hacks -->
     <script src="<?php echo($directoryPath); ?>/themes/berry/scripts/cssTricks.js"></script> 
 
@@ -49,7 +46,7 @@
   		
       <div id='body' class='faux'>
 
-				<div class="memberLinks">
+				<div class="sidebar">
 	
   				<?php
 						require_once("includes/memberLinks.inc.php");
@@ -57,7 +54,7 @@
 	
   			</div>
 			
-				<div class="memberBody">
+				<div class="sideBody">
 		
 			  	<?php
 
