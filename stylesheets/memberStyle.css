@@ -20,3 +20,9 @@
 .spacer {
   height: 10px;
 }
+
+h2 {
+  font-weight: bold;
+  border-bottom: 1px solid green;
+  font-size: 15px;
+}
