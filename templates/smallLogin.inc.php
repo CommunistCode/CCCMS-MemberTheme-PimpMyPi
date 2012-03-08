@@ -1,4 +1,4 @@
-<form action="<?php echo($directoryPath); ?>/membership/login.php" name="login"  method="post">
+<form action="<?php echo(DIRECTORY_PATH); ?>/membership/login.php" name="login"  method="post">
 				
   <div class='floatLeft'>
     <label for="username">Username</label>
@@ -13,7 +13,7 @@
   </div>
 
   <div class='registerText'>
-    <p>Not yet a member? <a href='<?php echo($directoryPath); ?>/membership/register.php'>Register Here</a></p>
+    <p>Not yet a member? <a href='<?php echo(DIRECTORY_PATH); ?>/membership/register.php'>Register Here</a></p>
   </div>
  
 </form>
