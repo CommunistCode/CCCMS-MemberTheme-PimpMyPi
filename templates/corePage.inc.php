@@ -12,7 +12,7 @@
     <link href="themes/<?php echo($_pageTools->getTheme("membership")); ?>/stylesheets/memberStyle.css" rel="stylesheet" type="text/css" />
 
     <!--[if IE]>
-     <link href="<?php echo(DIRECTORY_PATH); ?>/themes/berry/stylesheets/ie.css" rel="stylesheet" />
+     <link href="<?php echo(DIRECTORY_PATH); ?>/base/themes/berry/stylesheets/ie.css" rel="stylesheet" />
     <![endif]-->
 	
   </head>
